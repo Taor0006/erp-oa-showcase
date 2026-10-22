@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
+<title id="title">芯序 CIRVO ERP / OA 企业运营与协同管理</title>
+<desc id="desc">墨蓝与琥珀色品牌封面，连接人员、审批、采购与研发成本。</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#112338"/><stop offset="1" stop-color="#203d56"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#d6ae78" stroke-opacity=".07"/></pattern></defs>
+<rect width="1400" height="430" rx="22" fill="url(#bg)"/>
+<rect width="1400" height="430" rx="22" fill="url(#grid)"/>
+<path d="M880 0v92h120v130h220v208M1120 0v48h160v110h120" fill="none" stroke="#d6ae78" stroke-opacity=".13" stroke-width="2"/>
+<rect x="62" y="52" width="64" height="64" rx="16" fill="#2b455b"/>
+<path d="M76 95V80c0-6 4-10 10-10h3m0 27V83c0-5 4-9 9-9h13m-9 24V87c0-4 3-7 7-7h3" fill="none" stroke="#f5f7fa" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M105 67h7v7" fill="none" stroke="#d6ae78" stroke-width="4.5" stroke-linecap="round"/>
+<g font-family="Segoe UI,Arial,Microsoft YaHei,PingFang SC,sans-serif">
+<text x="146" y="82" fill="#f5f7fa" font-size="27" font-weight="700" letter-spacing="5">芯序 CIRVO</text>
+<text x="147" y="107" fill="#d6ae78" font-size="12" letter-spacing="3">ENTERPRISE OPERATIONS</text>
+<text x="62" y="208" fill="#fff" font-size="62" font-weight="700" letter-spacing="1">ERP / OA</text>
+<text x="65" y="258" fill="#e5ebf1" font-size="26" letter-spacing="3">各业务环节，有序协同</text>
+<text x="65" y="305" fill="#afc0ce" font-size="17">人员与组织 · 审批协作 · 采购履约 · 研发成本</text>
+<path d="M65 344h620" stroke="#d6ae78" stroke-opacity=".3"/>
+<text x="65" y="378" fill="#a7b9c8" font-size="15" letter-spacing=".4">Vue 3  /  Frappe  /  ERPNext  /  HRMS  /  Docker</text>
+<g fill="#20394e" stroke="#577087" stroke-width="1"><rect x="875" y="80" width="185" height="104" rx="16"/><rect x="1100" y="80" width="235" height="104" rx="16"/><rect x="875" y="236" width="185" height="104" rx="16"/><rect x="1100" y="236" width="235" height="104" rx="16"/></g>
+<path d="M1060 132h40m-20-7 8 7-8 7M967 184v52m-7-24 7 8 7-8m86 76h40m-20-7 8 7-8 7" fill="none" stroke="#d6ae78" stroke-width="2"/>
+<g fill="#d6ae78" font-size="12" letter-spacing="1"><text x="896" y="110">01 / PEOPLE</text><text x="1121" y="110">02 / APPROVALS</text><text x="896" y="266">03 / PROCUREMENT</text><text x="1121" y="266">04 / R&amp;D COST</text></g>
+<g fill="#f5f7fa" font-size="24" font-weight="600"><text x="896" y="152">人员与组织</text><text x="1121" y="152">岗位审批</text><text x="896" y="308">采购履约</text><text x="1121" y="308">研发台账</text></g>
+</g></svg>
